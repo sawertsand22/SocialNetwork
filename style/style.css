@@ -1,0 +1,27 @@
+.formToLogin    
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+}
+.inputField
+{
+    
+    border: 2rem;
+    border-color: black;
+    border-radius: 30vh;
+    margin: 1ex;
+}
+body
+{
+    background-color: aquamarine;
+}
+.SingUpButton
+{
+
+}
+.LogInButton{
+    
+}
